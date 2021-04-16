@@ -58,5 +58,3 @@ Dataset info:
 For apples, the segemntation folder contains png files with pixel-wise annotations of apples.
 
 [1] Bargoti, S., & Underwood, J. (2016). Deep Fruit Detection in Orchards. arXiv preprint arXiv:1610.03677. [Submitted to ICRA (2017)]
-
-
