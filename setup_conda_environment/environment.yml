@@ -1,4 +1,4 @@
-name: pytorch-cpu
+name: group20_env
 channels:
   - menpo
   - pytorch
@@ -196,4 +196,3 @@ dependencies:
     - termcolor==1.1.0
     - torchsummary==1.5.1
     - wrapt==1.12.1
-prefix: C:\Users\frank\anaconda3\envs\pytorch-cpu
